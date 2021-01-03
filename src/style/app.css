@@ -1,0 +1,9 @@
+.app {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-flow: row wrap;
+}
+
+.box
